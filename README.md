@@ -5,6 +5,14 @@
 ※ Current Architecture
 	Kami menggunakan regular microservice sebagai arsitektur software.
 
+## Auth
+### Auth Component Diagram
+![Auth Component Diagram](/ComponentBimantoro/auth-component-diagram.drawio.png)
+### Auth Code Diagram
+![Auth Code Diagram](/ComponentBimantoro/toytopia-auth-uml.png)
 
-
-
+## Voucher
+### Voucher Component Diagram
+![Voucher Component Diagram](/ComponentBimantoro/voucher-component-diagram.drawio.png)
+### Voucher Code Diagram
+![Voucher Code Diagram](/ComponentBimantoro/toytopia-voucher-uml.png)
